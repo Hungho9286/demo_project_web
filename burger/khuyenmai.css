@@ -1,0 +1,201 @@
+*{
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.menu{
+    height: 80px;
+    width: 100%;
+    background: url(../burger/img/bg-header-bottom.png);
+}
+#LOGO{
+    margin-left: 219px;
+    position: absolute;
+    top: -5px;
+}
+.menu ul{
+    float: right;
+    margin-right: 150px;
+}
+.menu ul li{
+    position: relative;
+    display:inline-block;
+}
+.giohang{
+    margin-top: 5px;
+    background-color: white;
+}
+#churieng{
+    color: rgb(255, 182, 45) ;
+    font-size: px;
+}
+#churieng:hover{
+    color:#a30000;
+    transition: 0.5s;
+
+}
+
+.menu ul li a{
+    display: block;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 21px 15px;
+    font-family: "block-pro", "Helvetica Neue", Verdana, Arial, sans-serif;
+    text-decoration: none;
+    font-weight: bolder;
+}
+ul li a:hover{
+    color:#6e3d2e;
+    transition: 0.5s;
+}
+.banner{
+    width: 100%;
+    height: 100px;
+    background: url(./img/BG-nav-bar-2.png);
+}
+.thanhthucan{
+    font-size: 15px;
+    font-family:  Arial, sans-serif;
+    
+}
+.monle{
+    width: 50px;
+    height: 50px;
+    border-radius: 50% ;
+    position:absolute;
+    border: 4px solid rgb(219, 219, 219);
+    left: 300px;
+    top: 85px;
+}
+.bam{
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    left: 303px;
+    top: 150px;
+}
+.monmoi{
+    width: 50px;
+    height: 50px;
+    border-radius: 50% ;
+    position:absolute;
+    border: 4px solid rgb(219, 219, 219);
+    left: 430px;
+    top: 85px;
+}
+.bon{
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    left: 426px;
+    top: 150px;
+}
+.burger{
+    width: 50px;
+    height: 50px;
+    border-radius: 50% ;
+    position:absolute;
+    border: 4px solid rgb(219, 219, 219);
+    left: 560px;
+    top: 85px;
+}
+.bin{
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    left: 563px;
+    top: 150px;
+}
+.combo{
+    width: 50px;
+    height: 50px;
+    border-radius: 50% ;
+    position:absolute;
+    border: 4px solid rgb(219, 219, 219);
+    left: 690px;
+    top: 85px;
+}
+.bo{
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    left: 691px;
+    top: 150px;
+}
+.garan{
+    width: 50px;
+    height: 50px;
+    border-radius: 50% ;
+    position:absolute;
+    border: 4px solid rgb(219, 219, 219);
+    left: 820px;
+    top: 85px;
+}
+.bi{
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    left: 821px;
+    top: 150px;
+}
+.comvua{
+    width: 50px;
+    height: 50px;
+    border-radius: 50% ;
+    position:absolute;
+    border: 4px solid rgb(219, 219, 219);
+    left: 950px;
+    top: 85px;
+}
+.beo{
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    left: 943px;
+    top: 150px;
+}
+.monankem{
+    width: 50px;
+    height: 50px;
+    border-radius: 50% ;
+    position:absolute;
+    border: 4px solid rgb(219, 219, 219);
+    left: 1080px;
+    top: 85px;
+}
+.bu{
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    left: 1066px;
+    top: 150px;
+}
+.thucuong{
+    width: 50px;
+    height: 50px;
+    border-radius: 50% ;
+    position:absolute;
+    border: 4px solid rgb(219, 219, 219);
+    left: 1210px;
+    top: 85px;
+}
+.bp{
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    left: 1200px;
+    top: 150px;
+}
+.nen{
+    width: 100%;
+    height: 700px;
+    background: gainsboro;
+}
+.khung1{
+    width: 30%;
+    margin: 73px 224px ;
+}
